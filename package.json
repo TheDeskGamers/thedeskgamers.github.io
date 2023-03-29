@@ -1,0 +1,9 @@
+{
+   "homepage": "https://thedeskgamers.github.io",
+   "scripts": {
+      "deploy": "gh-pages -d dist"
+   },
+   "devDependencies": {
+      "gh-pages": "^5.0.0"
+   }
+}
