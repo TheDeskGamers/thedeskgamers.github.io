@@ -1,0 +1,9 @@
+{
+   "name": "The Desk Gamers",
+   "short_name": "TDG",
+   "theme_color": "#8800ff",
+   "background_color": "#000000",
+   "display": "standalone",
+   "scope": "/",
+   "start_url": "https://thedeskgamers.github.io"
+}
